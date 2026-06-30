@@ -1,0 +1,11 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 1.0
+    },
+    "Decision Tree": {
+        "Accuracy": 1.0
+    },
+    "Random Forest": {
+        "Accuracy": 1.0
+    }
+}
